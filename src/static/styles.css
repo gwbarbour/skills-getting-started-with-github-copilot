@@ -108,6 +108,38 @@ button:hover {
   background-color: #3949ab;
 }
 
+.participants-section {
+  margin-top: 15px;
+  padding: 14px 16px;
+  background-color: #eef3ff;
+  border: 1px solid #c5d5ff;
+  border-radius: 8px;
+}
+
+.participants-section p {
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: #1a237e;
+}
+
+.participants-list {
+  list-style: disc inside;
+  margin: 0;
+  padding: 0;
+  color: #2d2d2d;
+}
+
+.participants-list li {
+  margin-bottom: 6px;
+  padding-left: 2px;
+}
+
+.no-participants {
+  margin: 0;
+  color: #5f6368;
+  font-style: italic;
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
